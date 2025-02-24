@@ -1,2 +1,2 @@
-# Stop the running container (if any)
-echo "Hi"	
+#stop running the docker container
+echo "hi"
